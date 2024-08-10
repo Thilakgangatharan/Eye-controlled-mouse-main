@@ -17,15 +17,6 @@ This project aims to create an eye-controlled mouse using the inbuilt camera of 
 - OpenCV library (opencv-python)
 - An IP camera app installed on a smartphone (for using the phone camera as an IP camera)
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/pallab2o/eye-controlled-mouse.git
-cd eye-controlled-mouse
-```
-
 Install dependencies:
 
 ```bash
@@ -51,11 +42,3 @@ The application will start capturing frames from the inbuilt camera or the IP ca
 - If you encounter issues with frame capture or processing, ensure that the camera (inbuilt or IP camera) is functioning correctly and is not being used by any other application.
 - Verify that your system meets the requirements specified in the Requirements section.
 - Check for any errors reported by the application and search online for solutions or ask for help on relevant forums or communities.
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## Acknowledgments
-
-This project was inspired by the desire to create accessible input methods for individuals with limited mobility. Thanks to the developers of OpenCV for providing powerful tools for image processing. This project is credited to Sanyu Project World. Visit their YouTube channel for more inspiring projects: [Sanyu Project World](https://www.youtube.com/@sanyuprojectsworld)
